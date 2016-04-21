@@ -36,3 +36,5 @@ pool.close()
 pool.join()
 print results
 ```
+
+Reference: http://stackoverflow.com/questions/20886565/python-using-multiprocessing-process-with-a-maximum-number-of-simultaneous-pro
